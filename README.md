@@ -22,9 +22,9 @@ I love exploring the intersection of design and development, and I believe a gre
 
 ## 📫 How to Reach Me
 - **Phone:** +91 9960669724  
-- **Email:** [YourEmail@example.com] (Optional, if you'd like to share it)  
-- **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Portfolio:** [Your Portfolio Website Link] (Optional, if you have one)
+- **Email:** faizuddinshaikh55@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shaikh-faiz-3b7119270/  
+- **Portfolio:** https://client-beta-henna.vercel.app/
 
 ---
 
