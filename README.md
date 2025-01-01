@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Faiz (@iamfaiz55)
 
 ## 👀 About Me
-I’m a passionate **Full Stack MERN Developer** and **React Native Developer**, currently working on **Material-UI** projects in Aurangabad. I specialize in building responsive and dynamic web and mobile applications that prioritize user experience.
+I’m a passionate Full Stack MERN Developer and React Native Developer, currently working on Material-UI projects in Aurangabad. I specialize in building responsive and dynamic web and mobile applications that prioritize user experience.
+
+In addition to my expertise in React and Node.js, I have hands-on experience with microservices architecture for backend development, ensuring scalability and maintainability in complex systems. On the frontend, I have worked extensively with module federation, enabling seamless integration and scalability for modern web applications.
 
 ## 🌱 Currently Learning
 I’m always looking to sharpen my skills and stay updated with the latest trends in software development. My current focus includes:
