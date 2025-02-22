@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Faiz (@iamfaiz55)
 
 ## 👀 About Me
-I’m a passionate Full Stack MERN Developer and React Native Developer, currently working on MaticUI startup comoany in Aurangabad. I specialize in building responsive and dynamic web and mobile applications that prioritize user experience.
+I’m a passionate Full Stack MERN Developer and React Native Developer, currently working on MaticUI startup company in Aurangabad. I specialize in building responsive and dynamic web and mobile applications that prioritize user experience.
 
 In addition to my expertise in React and Node.js, I have hands-on experience with microservices architecture for backend development, ensuring scalability and maintainability in complex systems. On the frontend, I have worked extensively with module federation, enabling seamless integration and scalability for modern web applications.
 
