@@ -1,1 +1,34 @@
-👋 Hi there, I'm Faiz!Sr. Software Development Engineer @ Inficom Solutions Pvt Ltd<p align="left"><img src="https://img.shields.io/badge/-Full--Stack%20Development-blue?style=flat-square" /><img src="https://img.shields.io/badge/-Mobile%20App%20Expert-success?style=flat-square" /><img src="https://img.shields.io/badge/-MERN%20Stack-orange?style=flat-square" /></p>🚀 Quick OverviewI am a 22-year-old Senior Software Development Engineer based in Chhatrapati Sambhajinagar. I specialize in building scalable, enterprise-grade applications using the MERN Stack and React Native. My focus is on creating high-performance systems through Microservices and Module Federation.🔭 Current Role: Senior Software Development Engineer at Inficom Solutions Pvt Ltd.⚡ Specialization: React Native, React.js, and Node.js Architectures.🌱 Learning: Advanced state management (Zustand/Redux) and high-end UI/UX principles.💬 Philosophy: A great UI is just as critical as a robust backend.🛠 Tech Stack & ToolsCategoryTechnologiesFrontendReact.js, Next.js, Redux, Zustand, Module FederationMobileReact Native, Expo, App Store/Play Store DeploymentBackendNode.js, Express.js, Microservices ArchitectureDatabaseMongoDB, PostgreSQL, FirebaseDesignTailwindCSS, Material-UI, Figma to Code💼 Career HighlightsSenior Software Development Engineer | Inficom Solutions Pvt LtdLeading development of complex web and mobile ecosystems.Full Stack MERN Developer | MaticUIDeveloped responsive applications with a focus on seamless user experience.Freelance Entrepreneur | Shaikh FaizSuccessfully delivered projects like "GrocerEasy" and "Wrinz" OTT platforms.📬 Connect with Me<p align="left"><a href="https://linkedin.com/in/shaikh-faiz-3b7119270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-faiz" height="30" width="40" /></a><a href="mailto:faizuddinshaikh55@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="faizuddinshaikh55" height="30" width="40" /></a></p>🌐 Portfolio: shaikhfaiz.top📞 Phone: +91 9960669724
+# 👋 Hi, I’m Faiz (@iamfaiz55)
+
+## 👀 About Me
+I’m a passionate Full Stack MERN Developer and React Native Developer, currently working on MaticUI startup company in Aurangabad. I specialize in building responsive and dynamic web and mobile applications that prioritize user experience.
+
+In addition to my expertise in React and Node.js, I have hands-on experience with microservices architecture for backend development, ensuring scalability and maintainability in complex systems. On the frontend, I have worked extensively with module federation, enabling seamless integration and scalability for modern web applications.
+
+## 🌱 Currently Learning
+I’m always looking to sharpen my skills and stay updated with the latest trends in software development. My current focus includes:
+- Advanced React and React Native techniques
+- State management libraries like Redux and Zustand
+- Improving my design and UI/UX skills with Material-UI and TailwindCSS
+
+## 📚 Education
+- **B.Com Graduate**
+- 21 years old with a strong passion for coding and continuous learning.
+
+## 💼 Experience
+- Working as a Full Stack MERN Developer in Aurangabad
+- Extensive experience in React.js, Node.js, MongoDB, Express.js, and React Native.
+
+## ⚡ Fun Fact
+I love exploring the intersection of design and development, and I believe a great UI is just as important as a solid backend!
+
+## 📫 How to Reach Me
+- **Phone:** +91 9960669724  
+- **Email:** faizuddinshaikh55@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shaikh-faiz-3b7119270/  
+- **Portfolio:** https://client-beta-henna.vercel.app/
+
+---
+
+✨ Feel free to explore my repositories and reach out for collaboration opportunities!
+ 
