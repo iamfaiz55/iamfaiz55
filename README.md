@@ -1,33 +1,40 @@
-# 👋 Hi, I’m Faiz (@iamfaiz55)
+👋 Hi, I’m Faiz (@iamfaiz55)
+👀 About Me
+I’m a passionate Senior Software Development Engineer at Inficom Solutions Pvt Ltd, based in Chhatrapati Sambhajinagar (Aurangabad). I specialize in building high-performance, responsive, and dynamic web and mobile applications with a deep focus on user experience.
 
-## 👀 About Me
-I’m a passionate Full Stack MERN Developer and React Native Developer, currently working on MaticUI startup company in Aurangabad. I specialize in building responsive and dynamic web and mobile applications that prioritize user experience.
+With expertise across the MERN stack and React Native, I have extensive experience implementing microservices architectures to ensure system scalability. On the frontend, I specialize in module federation and micro-frontends to build seamless, enterprise-grade applications.
 
-In addition to my expertise in React and Node.js, I have hands-on experience with microservices architecture for backend development, ensuring scalability and maintainability in complex systems. On the frontend, I have worked extensively with module federation, enabling seamless integration and scalability for modern web applications.
+🌱 Currently Learning & Mastering
+I’m constantly refining my craft and staying ahead of industry trends. My current focus includes:
 
-## 🌱 Currently Learning
-I’m always looking to sharpen my skills and stay updated with the latest trends in software development. My current focus includes:
-- Advanced React and React Native techniques
-- State management libraries like Redux and Zustand
-- Improving my design and UI/UX skills with Material-UI and TailwindCSS
+Advanced Architecture: Deep dives into React and React Native performance optimization.
 
-## 📚 Education
-- **B.Com Graduate**
-- 21 years old with a strong passion for coding and continuous learning.
+State Management: Expert-level implementation of Redux and Zustand.
 
-## 💼 Experience
-- Working as a Full Stack MERN Developer in Aurangabad
-- Extensive experience in React.js, Node.js, MongoDB, Express.js, and React Native.
+Design Systems: Mastering UI/UX principles using Material-UI and TailwindCSS to bridge the gap between aesthetics and functionality.
 
-## ⚡ Fun Fact
-I love exploring the intersection of design and development, and I believe a great UI is just as important as a solid backend!
+📚 Education & Bio
+B.Com Graduate
 
-## 📫 How to Reach Me
-- **Phone:** +91 9960669724  
-- **Email:** faizuddinshaikh55@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/shaikh-faiz-3b7119270/  
-- **Portfolio:** https://client-beta-henna.vercel.app/
+22 years old with a relentless drive for coding excellence and continuous technical growth.
 
----
+💼 Experience
+Sr. Software Development Engineer at Inficom Solutions Pvt Ltd.
+
+Expertise in React.js, Node.js, MongoDB, Express.js, and React Native.
+
+Proven track record in full-stack development and mobile app deployment.
+
+⚡ Fun Fact
+I believe that a pixel-perfect UI is just as critical as a robust backend. I live at the intersection of design and development!
+
+📫 How to Reach Me
+Phone: +91 9960669724
+
+Email: faizuddinshaikh55@gmail.com
+
+LinkedIn: shaikh-faiz-3b7119270
+
+Portfolio: shaikhfaiz.top
 
 ✨ Feel free to explore my repositories and reach out for collaboration opportunities!
